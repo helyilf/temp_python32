@@ -10,3 +10,6 @@ def jkl():
 def dbc():
 	return 'world'
 
+
+d = 3
+
